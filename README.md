@@ -1,4 +1,4 @@
-# PHP GitHub API 2.0
+# PHP GitHub API 2.0 -TEST
 
 In 2.0 lib no longer uses guzzle 3.7, instead it has an HTTPlug abstraction layer. 
 
